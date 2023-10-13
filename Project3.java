@@ -53,6 +53,3 @@ public class Project3 {
                 "\nSorted Arabic Values:\n" + sortedArabicValues.toString()); // displays the text 
     }
 }
-
-//Sameer Muzafar
-//Lab Professor: Zhujun Li - Lab section: 22A [34711]
